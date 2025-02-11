@@ -13,6 +13,8 @@ Olá! Eu sou João Pedro Rodrigues Gomes da Silva, um desenvolvedor apaixonado p
 
 ## Status dos Commits
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpRodrigues2&hide_progress=true)
+
 ![João Pedro Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=JpRodrigues2&show_icons=true&theme=radical)
 
 Este repositório contém todos os meus projetos e experimentos. Fique à vontade para explorar, contribuir ou apenas dar uma olhada!
