@@ -11,7 +11,6 @@ Olá! Eu sou João Pedro Rodrigues Gomes da Silva, um desenvolvedor apaixonado p
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Status dos Commits
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpRodrigues2&hide_progress=true)
 
